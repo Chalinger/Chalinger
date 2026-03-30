@@ -3,6 +3,7 @@
 I'm Victor, a second year web development student aiming to become a full-stack developer. I also like designing acessible websites and am currently pursuing the Opquast program (a web quality certification focused on accessibility and performance).
 
 My most recent projects:
+- [Faravision - Kheti](https://kheti.roynajarian.fr/)
 - [restau-re.fr](restau-re.fr)
 - [DataViz - ClimEvo](https://chalinger.github.io/SA-3.03---Projet-DataViz/)
 

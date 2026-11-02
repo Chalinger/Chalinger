@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Victor, a second year web development student aiming to become a full-stack developer. I also like designing acessible websites and am currently pursuing the Opquast program (a web quality certification focused on accessibility and performance).
+I'm Victor, a third year web development student aiming to become a full-stack developer. I also like designing acessible websites and am currently pursuing the Opquast program (a web quality certification focused on accessibility and performance).
 
 My most recent projects:
 - [Faravision - Kheti](https://kheti.roynajarian.fr/)
